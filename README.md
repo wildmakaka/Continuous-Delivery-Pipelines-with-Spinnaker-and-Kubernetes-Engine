@@ -1,7 +1,7 @@
-# [DevOps] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+# [DevOps] [GSP114] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
 
 Lab:  
-https://www.qwiklabs.com/focuses/1104?parent=catalog
+https://www.qwiklabs.com/focuses/552?parent=catalog
 
 Promo - 1 month free:  
 https://go.qwiklabs.com/qwiklabs-free
